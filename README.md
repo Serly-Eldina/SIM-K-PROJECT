@@ -30,16 +30,16 @@ The website offers several interactive features:
 ---
 
 ### Home Page
-![Home Page](https://github.com/YourUsername/YourRepo/blob/main/images/home.png)  
+![Home Page](https://github.com/Serly-Eldina/SIM-K-PROJECT/blob/main/img/11.jpg)  
 
 ### Movies Page
-![Movies Page](https://github.com/YourUsername/YourRepo/blob/main/images/movies.png)  
-
+![Movies Page](https://github.com/Serly-Eldina/SIM-K-PROJECT/blob/main/img/12.jpg)  
+![Movies Page](https://github.com/Serly-Eldina/SIM-K-PROJECT/blob/main/img/15.jpg) 
 ### About Us Page
-![About Us Page](https://github.com/YourUsername/YourRepo/blob/main/images/aboutus.png)  
+![About Us Page](https://github.com/Serly-Eldina/SIM-K-PROJECT/blob/main/img/13.jpg)
 
-### Profile Page
-![Profile Page](https://github.com/YourUsername/YourRepo/blob/main/images/profile.png)  
+### Login Page
+![Profile Page](https://github.com/Serly-Eldina/SIM-K-PROJECT/blob/main/img/14.jpg)  
 
 ---
 
